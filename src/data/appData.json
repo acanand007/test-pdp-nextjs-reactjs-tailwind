@@ -1,0 +1,92 @@
+{
+    "topMenu" : ["The Edit", "New Arrivals", " Designers", " Company","Clothing", "Shoes", "Bags","Accessories","Jewelry","Beauty", "home"],
+    "productCarousal": [{
+        "title": "first slide",
+        "url": "/images/image_1.png",
+        "id": "01",
+        "width": "562",
+        "height": "675"
+    },
+    {
+        "title": "Second slide",
+        "url": "/images/image_2.png",
+        "id": "02",
+        "width": "285",
+        "height": "342"
+    },
+    {
+        "title": "Third slide",
+        "url": "/images/image_3.png",
+        "id": "03",
+        "width": "285",
+        "height": "342"
+    },
+    {
+        "title": "Fouth slide",
+        "url": "/images/image_4.png",
+        "id": "04",
+        "width": "562",
+        "height": "675"
+    },
+    {
+        "title": "Fifth slide",
+        "url": "/images/image_5.png",
+        "id": "05",
+        "width": "562",
+        "height": "675"
+    }
+   ],
+   "productFeatute" : [{
+        "id" : "01",
+        "title": "details",
+        "description": ["The Forte Lurex Linen Viscose Jacket in Mother of Pearl features lunar lavishness by night and by day: a blazer in a linen blend shot with lurex for a shimmering surface that shines like a star in the sky. it has a straight fit with well defined shoulders and a shawl collar culminating in a button and has been flawlessly finished with three jet pockets with a sartorial feel", "See the EDITOR'S NOTE","Learn about the DESIGNER"]
+    },
+    {
+        "id" : "02",
+        "title": "delivery",
+        "description": ["2.The Forte Lurex Linen Viscose Jacket in Mother of Pearl features lunar lavishness by night and by day: a blazer in a linen blend shot with lurex for a shimmering surface that shines like a star in the sky. it has a straight fit with well defined shoulders and a shawl collar culminating in a button and has been flawlessly finished with three jet pockets with a sartorial feel"]
+    },
+    {
+        "id" : "03",
+        "title": "fit",
+        "description": ["3.The Forte Lurex Linen Viscose Jacket in Mother of Pearl features lunar lavishness by night and by day: a blazer in a linen blend shot with lurex for a shimmering surface that shines like a star in the sky. it has a straight fit with well defined shoulders and a shawl collar culminating in a button and has been flawlessly finished with three jet pockets with a sartorial feel"]
+    },
+    {
+        "id" : "04",
+        "title": "share",
+        "description": ["4.The Forte Lurex Linen Viscose Jacket in Mother of Pearl features lunar lavishness by night and by day: a blazer in a linen blend shot with lurex for a shimmering surface that shines like a star in the sky. it has a straight fit with well defined shoulders and a shawl collar culminating in a button and has been flawlessly finished with three jet pockets with a sartorial feel"]
+    }
+],
+"bottomLink": [
+   {
+    "id": 1,
+    "name": "Jonathan Simkhai",
+    "url": "#"
+   },
+   {
+    "id": 2,
+    "name": "Blazers",
+    "url": "#"
+   },
+   {
+    "id": 3,
+    "name": "Viscose",
+    "url": "#"
+   }
+],
+"productSize" : [
+    "XS","S","M","L","XLL"
+],
+"productVarients" : [{
+    "id" : "01",
+    "name" : "Conchiglia",
+    "url" : "/images/image_thumb_1.png"
+},
+{
+    "id" : "02",
+    "name" : "Brown",
+    "url" : "/images/image_thumb_2.png"
+}
+]
+
+}
